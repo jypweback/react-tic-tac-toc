@@ -26,6 +26,11 @@
       "eslint --fix",
       "prettier --write",
       "git add"
+    ],
+    "**/*.jsx": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
     ]
   },
   "eslintConfig": {
